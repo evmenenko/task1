@@ -1,4 +1,6 @@
 .row-3__info {
   display: flex;
   align-items: center;
+
+  margin: 0;
 }
