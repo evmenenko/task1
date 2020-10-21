@@ -1,0 +1,4 @@
+.carousel__items {
+  display: flex;
+  list-style: none;
+}

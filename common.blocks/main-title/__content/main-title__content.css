@@ -1,0 +1,5 @@
+.main-title__content {
+  display: flex;
+  flex-direction: column;
+  padding: 58px 0px 60px;
+}

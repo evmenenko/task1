@@ -1,0 +1,4 @@
+.navigation__item_state_active:active {
+  color: #ffffff;
+  background-color:#fdbd1f;
+}
