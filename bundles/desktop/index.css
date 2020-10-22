@@ -20,7 +20,6 @@
 @import "../../common.blocks/navigation/__item/navigation__item.css";
 @import "../../common.blocks/navigation/__item/_theme/navigation__item_main-theme.css";
 @import "../../common.blocks/navigation/__item/_state/navigation__item_state_active.css";
-@import "../../common.blocks/navigation/__item/_state/navigation__item_state_hover.css";
 @import "../../common.blocks/link/link.css";
 @import "../../common.blocks/link/_theme/link_btn.css";
 @import "../../common.blocks/link/_state/link_state_hover.css";
