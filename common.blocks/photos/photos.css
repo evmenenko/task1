@@ -1,8 +1,7 @@
-.main-title {
+.photos {
   display: flex;
   flex-direction: column;
   align-items: center;
-  
-  height: 272px;
-  background-color: #fdbd1f;
+
+  margin-bottom: 67px;
 }

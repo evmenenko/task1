@@ -4,5 +4,7 @@
   align-items: center;
 
   height: 440px;
-  background-image: url(../../asset/banner.png);
+  background-image: url(../../asset/img/banner.png);
+  background-repeat: no-repeat;
+  background-size: 100% 441px;
 }

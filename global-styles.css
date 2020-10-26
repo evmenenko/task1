@@ -1,0 +1,16 @@
+:root {
+  --main-bg-color: white;
+  --main-text-color: #9e8e92;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+
+  font-family: 'Source Sans Pro';
+  font-weight: bold;
+}
+ 

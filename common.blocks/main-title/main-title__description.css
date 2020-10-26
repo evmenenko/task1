@@ -1,0 +1,11 @@
+.main-title__description {
+  align-self: center;
+  max-width: 580px;
+  margin-top: 10px;
+
+  color: white;
+  opacity: 0.8;
+
+  font-size: 20px;
+  text-align: center;
+}
