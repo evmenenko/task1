@@ -1,0 +1,5 @@
+.carousel__monitor {
+  position: absolute;
+  z-index: 1;
+  margin-left: -3px;
+}

@@ -1,4 +1,7 @@
 .carousel {
   display: flex;
-  height: min-content;
+  justify-content: center;
+  align-items: center;
+  
+  height: 222px;
 }

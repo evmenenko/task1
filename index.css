@@ -1,5 +1,5 @@
-@import "normalize.css";
 @import "global-styles.css";
+@import "normalize.css";
 @import "common.blocks/header/header.css";
 @import "common.blocks/header/header__logo.css";
 @import "common.blocks/header/header__navigation.css";
@@ -46,13 +46,16 @@
 @import "common.blocks/photos/photos__info.css";
 @import "common.blocks/photos/photos__description.css";
 @import "common.blocks/photos/photos__carousel-container.css";
-@import "common.blocks/photos/photos__carousel.css";
+@import "common.blocks/photos/photos__carousel-footer.css";
 @import "common.blocks/footer/footer.css";
 @import "common.blocks/footer/footer__content.css";
 @import "common.blocks/footer/footer__link.css";
 @import "common.blocks/carousel/carousel.css";
 @import "common.blocks/carousel/carousel__arrow.css";
 @import "common.blocks/carousel/carousel__content.css";
+@import "common.blocks/carousel/carousel__item.css";
+@import "common.blocks/carousel/carousel__items-wrapper.css";
 @import "common.blocks/carousel/carousel__items.css";
+@import "common.blocks/carousel/carousel__monitor.css";
 @import "asset/fonts/icomoon/style.css";
 @import "asset/fonts/SourceSansPro/style.css";

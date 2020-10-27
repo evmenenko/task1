@@ -1,6 +1,8 @@
 .carousel__content {
+  height: 222px;
+  width: 300px;
+  overflow: hidden;
   margin: 0px 144px;
-  overflow-x: hidden;
-
-  border-radius: 7px;
+  display: flex;
+  align-items: center;
 }

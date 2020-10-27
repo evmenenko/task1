@@ -1,4 +1,5 @@
 .carousel__items {
+  position: absolute;
   display: flex;
-  list-style: none;
+  height: 171px;
 }
