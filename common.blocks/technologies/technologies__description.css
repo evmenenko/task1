@@ -1,4 +1,4 @@
 .technologies__description {
-  color: #fdbd1f;
+  color: var(--secondary-text-color);
   font-weight: bold;
 }

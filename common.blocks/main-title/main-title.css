@@ -4,5 +4,5 @@
   align-items: center;
   
   height: 272px;
-  background-color: #fdbd1f;
+  background-color: var(--secondary-bg-color);
 }

@@ -1,0 +1,12 @@
+.banner__item {
+  align-self: center;
+  padding: 14px 10px 16px;
+  margin-bottom: 1px;
+
+  background-color: var(--primary-bg-color);
+  color: var(--info-text-color);
+
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}

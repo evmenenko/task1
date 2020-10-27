@@ -3,5 +3,5 @@
   align-items: center;
 
   font-size: 32px;
-  color: #ab6f80;
+  color: var(--primary-text-color);
 }

@@ -1,4 +1,6 @@
 .features {
+  --border-color: #e2e2df;
+
   display: flex;
   justify-content: space-between;
 }

@@ -1,6 +1,15 @@
 :root {
   --main-bg-color: white;
   --main-text-color: #9e8e92;
+
+  --primary-bg-color: #ab6f80;
+  --primary-text-color: #ab6f80;
+
+  --secondary-bg-color: #fdbd1f;
+  --secondary-text-color: #fdbd1f;
+
+  --info-bg-color: #f0f0f0;
+  --info-text-color: white;
 }
 
 body {

@@ -1,4 +1,4 @@
 .logo__icon {
   font-size: 29px;
-  color: #fdbd1f;
+  color: var(--secondary-text-color);
 }

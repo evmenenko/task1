@@ -3,10 +3,10 @@
   
   font-size: 13px;
   font-weight: bold;
-  color: #9e8e92;
+  color: var(--main-text-color);
 }
 
 .navigation__item:hover {
-  color: #ffffff;
-  background-color:#fdbd1f;
+  color: var(--info-text-color);
+  background-color: var(--secondary-text-color);
 }

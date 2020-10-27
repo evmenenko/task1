@@ -1,10 +1,8 @@
-.main-title__button {
+.main-title__btn {
   padding: 11px 0px 15px;
   width: 160px;
-
-  background-color: #ab6f80;
-  color:  #fdbd1f;
   
+  color: var(--secondary-text-color);
   font-size: 18px;
   font-weight: bold;
   text-align: center;
